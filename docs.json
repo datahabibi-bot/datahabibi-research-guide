@@ -1,0 +1,22 @@
+{
+  "$schema": "https://docs.page/schema.json",
+  "name": "dataHabibi research guide",
+  "description": "Dubai building prices, rental yields and official DLD transaction records.",
+  "sidebar": [
+    {
+      "group": "Dubai housing research",
+      "pages": [
+        {
+          "title": "Introduction",
+          "href": "/"
+        }
+      ]
+    }
+  ],
+  "social": {
+    "website": "https://datahabibi.ae/"
+  },
+  "seo": {
+    "noindex": false
+  }
+}
